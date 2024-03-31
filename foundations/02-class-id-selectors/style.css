@@ -1,0 +1,25 @@
+.odd {
+    background-color: #eb8d8d;
+    font-family: "Verdana", "DejaVu", sans-serif;
+
+}
+
+#Unique {
+
+    color: hsl(238 100% 27%);
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.cooler {
+
+    font-size: 24px;
+
+}
+
+#Water {
+
+    background-color: #42f57b;
+    font-size: 24px;
+    font-weight: bold;
+}
