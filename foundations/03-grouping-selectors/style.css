@@ -1,0 +1,17 @@
+.choice1 {
+
+    background-color: black;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.choice2 {
+    background-color: yellow;
+    color: black;
+}
+
+.choice1,
+.choice2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', san-serif;
+}
